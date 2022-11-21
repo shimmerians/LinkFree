@@ -68,7 +68,7 @@ a {
 
 .picture::before {
   content: "";
-  background: url("shimmerians.png");
+  background: url("eye.png");
   background-size: contain;
   border-radius: 50%;
   inset: 0;
