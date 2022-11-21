@@ -70,6 +70,7 @@ a {
   content: "";
   background: url("eye.png");
   background-size: contain;
+  background-repeat: no-repeat;
   border-radius: 50%;
   inset: 0;
   position: absolute;
