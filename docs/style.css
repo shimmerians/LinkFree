@@ -69,8 +69,10 @@ a {
 .picture::before {
   content: "";
   background: url("eye.png");
-  background-size: contain;
   background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center
+  #background-size: contain;
   border-radius: 50%;
   inset: 0;
   position: absolute;
